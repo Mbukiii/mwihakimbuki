@@ -1,2 +1,1 @@
-# mwihakimbuki
 My first repository
